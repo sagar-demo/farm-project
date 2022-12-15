@@ -6,6 +6,11 @@ slugify
 express
 nodemon
 json 
+
+HOSTED LINK ********************
+https://farm-project.onrender.com
+
+
 -------------------------
 will host this project soon on cloud platform
 Stay tuned!& Happy learning:)
